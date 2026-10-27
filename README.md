@@ -91,7 +91,7 @@ Prices in Chinese yuan (CNY), checked by fetching each product page on 2026-10-2
 | Product | Price (CNY) | Order |
 |---|---|---|
 | ChatGPT Plus, 1 month | ¥129 | [item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
-| ChatGPT Plus, 12 months | ¥1,439 | [item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
+| ChatGPT Plus, 12 months | ¥1,488 | [item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
 | ChatGPT Pro, 1 month ($100 / $200 / $500 tier) | ¥699 / ¥1,399 / ¥3,499 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
 | Claude Pro, 1 month | ¥159 | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
 | Claude Max 5X / 20X, 1 month | ¥900 / ¥1,800 | [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
