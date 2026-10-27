@@ -1,6 +1,6 @@
 # How to Buy ChatGPT Plus Without a Credit Card (2026): Official Subscription, In-App Purchase, Gift Cards and Top-Up Services Compared
 
-> Last updated: 2026-10-26 · Rewritten as a neutral guide: each of the four ways to get ChatGPT Plus is explained with price, requirements, pros, cons and risks, citing official pages with check dates; the author's shop is listed last as one top-up option; payment section now lists Alipay / WeChat Pay only; added a dated re-check log.
+> Last updated: 2026-10-28 · ChatGPT Plus multi-month orders are now simply ¥129 × months: ¥387 for 3 months, ¥774 for 6 months, ¥1,548 for 12 months. Earlier (2026-10-26): rewritten as a neutral guide: each of the four ways to get ChatGPT Plus is explained with price, requirements, pros, cons and risks, citing official pages with check dates; the author's shop is listed last as one top-up option; payment section now lists Alipay / WeChat Pay only; added a dated re-check log.
 
 **Short answer:** OpenAI's checkout takes major credit cards. Without one, the realistic routes are an App Store / Google Play in-app subscription paid from store balance, an official ChatGPT gift card (currently US-only), or a third-party top-up service ("daichong") that pays for you and activates the plan on **your own** account. Each has trade-offs, explained below with official sources.
 
@@ -91,7 +91,7 @@ Prices in Chinese yuan (CNY), checked by fetching each product page on 2026-10-2
 | Product | Price (CNY) | Order |
 |---|---|---|
 | ChatGPT Plus, 1 month | ¥129 | [item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
-| ChatGPT Plus, 12 months | ¥1,488 | [item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
+| ChatGPT Plus, 12 months | ¥1,548 (¥129 × 12) | [item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
 | ChatGPT Pro, 1 month ($100 / $200 / $500 tier) | ¥699 / ¥1,399 / ¥3,499 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
 | Claude Pro, 1 month | ¥159 | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
 | Claude Max 5X / 20X, 1 month | ¥900 / ¥1,800 | [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
@@ -122,6 +122,7 @@ Newest first. Only checks actually performed are recorded; a line is added whene
 
 | Date | What was checked | Result |
 |---|---|---|
+| 2026-10-28 | **Shop price change:** ChatGPT Plus ¥387 for 3 months, ¥774 for 6 months, ¥1,548 for 12 months (¥129 × months) | ChatGPT Plus row above updated |
 | 2026-10-26 | **Shop prices:** fetched product pages item/5, 7, 10, 11, 12, 13, 14, 17, 18, 19 | Match the table above; no change |
 | 2026-10-26 | **Official prices:** OpenAI help articles (Plus, Pro tiers), Claude pricing page and Max article | Plus $20 monthly only; Pro $100 / $200 / $500; Claude Pro $20 (or $17 annual); Max $100 / $200 |
 | 2026-10-26 | **Official policies:** pricing FAQ (payment methods), gift-card article, double-billing article, supported-countries list, Claude gift article | Major credit cards; gift cards US-only and web-only; in-app subscriptions managed by the store; China / Hong Kong / Macau not supported, Taiwan supported; Claude gifts paused |
