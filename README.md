@@ -1,3 +1,5 @@
+**📚 Full tutorial collection (Chinese): [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)** (16 chapters in one repo, prices re-checked weekly; web version [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/))
+
 # How to Buy ChatGPT Plus Without a Credit Card (2026): Official Subscription, In-App Purchase, Gift Cards and Top-Up Services Compared
 
 > Last updated: 2026-10-28 · Grok: any account that is not a paid subscriber (a free account) can now be topped up; ChatGPT Pro rows now use the tier names Pro 100 / Pro 200 / Pro 500. Earlier the same day: ChatGPT Plus multi-month orders are now simply ¥129 × months: ¥387 for 3 months, ¥774 for 6 months, ¥1,548 for 12 months. Earlier (2026-10-26): rewritten as a neutral guide: each of the four ways to get ChatGPT Plus is explained with price, requirements, pros, cons and risks, citing official pages with check dates; the author's shop is listed last as one top-up option; payment section now lists Alipay / WeChat Pay only; added a dated re-check log.
