@@ -1,8 +1,6 @@
-**📚 Full tutorial collection (Chinese): [国内 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)** (16 chapters in one repo, prices re-checked weekly; web version [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/))
-
 # How to Buy ChatGPT Plus Without a Credit Card (2026): Official Subscription, In-App Purchase, Gift Cards and Top-Up Services Compared
 
-> Last updated: 2026-10-28 · Grok: any account that is not a paid subscriber (a free account) can now be topped up; ChatGPT Pro rows now use the tier names Pro 100 / Pro 200 / Pro 500. Earlier the same day: ChatGPT Plus multi-month orders are now simply ¥129 × months: ¥387 for 3 months, ¥774 for 6 months, ¥1,548 for 12 months. Earlier (2026-10-26): rewritten as a neutral guide: each of the four ways to get ChatGPT Plus is explained with price, requirements, pros, cons and risks, citing official pages with check dates; the author's shop is listed last as one top-up option; payment section now lists Alipay / WeChat Pay only; added a dated re-check log.
+> Last updated: 2026-10-28 · Moved the tutorial-collection link to the footer, cut links to the author's shop to five or fewer, and activation time is now stated as "about 2 minutes on average"; license changed to CC BY-ND 4.0.
 
 **Short answer:** OpenAI's checkout takes major credit cards. Without one, the realistic routes are an App Store / Google Play in-app subscription paid from store balance, an official ChatGPT gift card (currently US-only), or a third-party top-up service ("daichong") that pays for you and activates the plan on **your own** account. Each has trade-offs, explained below with official sources.
 
@@ -88,23 +86,23 @@ OpenAI publishes a [list of supported countries and territories](https://platfor
 
 Many sellers offer top-up; [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) is the author's own shop and one of them. Use the six checks above to judge it like any other.
 
-Prices in Chinese yuan (CNY), checked by fetching each product page on 2026-10-26; the product page is authoritative.
+Prices in Chinese yuan (CNY), checked 2026-10-28; the product page is authoritative. Each product has a single order page on kw.yaoyao.chat where you pick the duration or tier.
 
-| Product | Price (CNY) | Order |
-|---|---|---|
-| ChatGPT Plus, 1 month | ¥129 | [item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
-| ChatGPT Plus, 12 months | ¥1,548 (¥129 × 12) | [item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
-| ChatGPT Pro, 1 month (Pro 100 / Pro 200 / Pro 500 tier) | ¥699 / ¥1,399 / ¥3,499 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
-| Claude Pro, 1 month | ¥159 | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
-| Claude Max 5X / 20X, 1 month | ¥900 / ¥1,800 | [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
-| Grok Premium (formerly SuperGrok), 1 month | ¥239 | [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) (same page also offers Plus ¥70 / Super ¥749 / Ultra ¥1499, e.g. [item/10?d=plus](https://kw.yaoyao.chat/item/10?d=plus&utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card)) |
-| Gemini Pro (Google AI Pro), 18 months | ¥99 | [item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card) |
+| Product | Price (CNY) |
+|---|---|
+| ChatGPT Plus, 1 month | ¥129 |
+| ChatGPT Plus, 12 months | ¥1,548 (¥129 × 12) |
+| ChatGPT Pro, 1 month (Pro 100 / Pro 200 / Pro 500 tier) | ¥699 / ¥1,399 / ¥3,499 |
+| Claude Pro, 1 month | ¥159 |
+| Claude Max 5X / 20X, 1 month | ¥900 / ¥1,800 |
+| Grok Premium (formerly SuperGrok), 1 month | ¥239 (same page also offers Plus ¥70 / Super ¥749 / Ultra ¥1499) |
+| Gemini Pro (Google AI Pro), 18 months | ¥99 |
 
 - **Payment:** Alipay and WeChat Pay, in CNY.
-- **ChatGPT Plus (1 month):** pay → the page shows a card code → open [cz.yaoyao.chat](https://cz.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card), enter the code and paste the text from chatgpt.com/api/auth/session. No password, no verification code; usually 1–3 minutes. Afterwards, ChatGPT Settings → Security → "Log out of all devices" makes the pasted text stop working.
-- **Other products:** activated manually after you fill in the order page (within 10 minutes per the product page). Claude needs only your organization ID. Grok can be added to any account that is not a paid subscriber (a free account); accounts that already have a paid plan cannot be topped up. One order page, four tiers: Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1,499 ([item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card)). Note that xAI states it does not authorize any third-party sellers ([x.ai/pricing](https://x.ai/pricing)).
-- **Warranty (all products):** (1) activation failed: the card code is returned automatically and you can retry, or ask for a refund; manual orders are retried or refunded. (2) Plan dropped within the paid period: one more month is added to the same account. (3) Account banned or deactivated: not covered, no refund. Full rules (Chinese): [shouhou-zhibao](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card). English summary of the shop: [kw.yaoyao.chat/guide/en.html](https://kw.yaoyao.chat/guide/en.html?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card).
-- **Support:** Yaoyao's personal WeChat **yao77380** (backup yym77288), 09:00–24:00 Beijing time. Anyone who adds you first and calls themselves "support" is not us. Official account list: [www.yaoyao.chat/official.html](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card).
+- **ChatGPT Plus (1 month):** pay → the page shows a card code → open cz.yaoyao.chat, enter the code and paste the text from chatgpt.com/api/auth/session. No password, no verification code; about 2 minutes on average. Afterwards, ChatGPT Settings → Security → "Log out of all devices" makes the pasted text stop working.
+- **Other products:** after paying, fill in the activation details on the order page; activation takes about 2 minutes on average (Gemini: after paying, send your order number on WeChat). Claude needs only your organization ID. Grok can be added to any account that is not a paid subscriber (a free account); accounts that already have a paid plan cannot be topped up. One order page (kw.yaoyao.chat/item/10), four tiers: Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1,499. Note that xAI states it does not authorize any third-party sellers ([x.ai/pricing](https://x.ai/pricing)).
+- **Warranty (all products):** (1) activation failed: for ChatGPT Plus (1 month) the card code is returned automatically and you can retry, or ask for a refund; other products that fail to activate are re-activated or refunded. (2) Plan dropped within the paid period: one more month is added to the same account. (3) Account banned or deactivated: not covered, no refund. Full rules (Chinese): [shouhou-zhibao](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card). English summary of the shop: [kw.yaoyao.chat/guide/en.html](https://kw.yaoyao.chat/guide/en.html?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card).
+- **Support:** Yaoyao's personal WeChat **yao77380** (backup yym77288), 09:00–24:00 Beijing time. Anyone who adds you first and calls themselves "support" is not us. Official account list: the "Official accounts and anti-fraud notice" page on the official site `www.yaoyao.chat`.
 - **Who runs it:** a personal brand run by Yaoyao (not a company), making AI explainer videos since October 2023. She has never sold any training course ([account list with screenshots, Chinese](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card#jietu)).
 
 ## FAQ
@@ -124,14 +122,17 @@ Newest first. Only checks actually performed are recorded; a line is added whene
 
 | Date | What was checked | Result |
 |---|---|---|
+| 2026-10-28 | **Shop prices:** checked every product against the shop's fact sheet yy-facts.json (regenerated from the shop database every 15 minutes) | Matches the table above; no change. Activation time now stated as "about 2 minutes on average" |
 | 2026-10-28 | **Shop product pages:** fetched item/10 (Grok) and item/17, 18, 19 (ChatGPT Pro) | Grok: any account that is not a paid subscriber (free account) can be topped up; Plus ¥70 / Premium ¥239 / Super ¥749 / Ultra ¥1,499. ChatGPT Pro ¥699 / ¥1,399 / ¥3,499, now listed by tier name (Pro 100 / Pro 200 / Pro 500). Shop section above updated |
 | 2026-10-28 | **Shop price change:** ChatGPT Plus ¥387 for 3 months, ¥774 for 6 months, ¥1,548 for 12 months (¥129 × months) | ChatGPT Plus row above updated |
 | 2026-10-26 | **Shop prices:** fetched product pages item/5, 7, 10, 11, 12, 13, 14, 17, 18, 19 | Match the table above; no change |
 | 2026-10-26 | **Official prices:** OpenAI help articles (Plus, Pro tiers), Claude pricing page and Max article | Plus $20 monthly only; Pro $100 / $200 / $500; Claude Pro $20 (or $17 annual); Max $100 / $200 |
 | 2026-10-26 | **Official policies:** pricing FAQ (payment methods), gift-card article, double-billing article, supported-countries list, Claude gift article | Major credit cards; gift cards US-only and web-only; in-app subscriptions managed by the store; China / Hong Kong / Macau not supported, Taiwan supported; Claude gifts paused |
 
+More guides (in Chinese): [full tutorial collection](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)
+
 ---
 
 More from the same author: [Chinese master guide (gpt-chongzhi)](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi) · [Traditional Chinese guide for Hong Kong / Taiwan](https://github.com/haiwaihuyonghui-rgb/chatgpt-plus-hk-tw) · [Claude guide (Chinese)](https://github.com/haiwaihuyonghui-rgb/claude-daichong)
 
-Maintained by 瑶瑶ai训练师 (Yaoyao AI Trainer). This is the author's own repository, not a third-party review. Licensed under MIT.
+Maintained by 瑶瑶ai训练师 (Yaoyao AI Trainer). This is the author's own repository, not a third-party review. From 2026-10-28 on, this repository is licensed under [CC BY-ND 4.0](LICENSE): you may share it unchanged with credit to 瑶瑶ai训练师 and a link to https://github.com/haiwaihuyonghui-rgb/buy-chatgpt-plus-without-credit-card; no adaptations.

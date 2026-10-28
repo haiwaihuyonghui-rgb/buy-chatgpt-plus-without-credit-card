@@ -1,6 +1,6 @@
 # ChatGPT Gift Card and Claude Pro Gift Card (2026): What Exists, Who Can Use It, and What to Avoid
 
-> Last updated: 2026-10-26 (second update) · Re-checked the official OpenAI gift-card article (still US-only, web-only) and added its link; fixed the README anchor. Earlier today: new page with ChatGPT gift card rules, Claude gift subscriptions paused, four common traps.
+> Last updated: 2026-10-28 · Activation time is now stated as "about 2 minutes on average"; license changed to CC BY-ND 4.0.
 
 **Short answer:**
 - **ChatGPT gift card:** OpenAI does sell official gift cards, but as of our 2026-10-26 check of the [official help article](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards) they are sold through participating US retailers, work only for US ChatGPT accounts, and are redeemed on the web at chatgpt.com/redeem. They cannot be used for App Store / Google Play subscriptions and are not API credit.
@@ -46,10 +46,10 @@ So if someone is selling a "Claude Pro gift card" today, ask exactly what it is.
 
 ## Want to give someone ChatGPT Plus without a gift card?
 
-You can buy a ChatGPT Plus card code (¥129, CNY, checked 2026-10-26 on the [product page](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card&utm_content=gift-cards)) and send the code to your friend. They activate it on their own account at cz.yaoyao.chat in 1–3 minutes, without handing their account to anyone. Payment is Alipay / WeChat Pay in CNY only. Warranty and contact details are in the [README](README.md#one-top-up-option-yaoyao-ai-trainers-shop).
+You can buy a ChatGPT Plus card code (¥129, CNY, checked 2026-10-26 on the [product page](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card&utm_content=gift-cards)) and send the code to your friend. They activate it on their own account at cz.yaoyao.chat in about 2 minutes on average, without handing their account to anyone. Payment is Alipay / WeChat Pay in CNY only. Warranty and contact details are in the [README](README.md#one-top-up-option-yaoyao-ai-trainers-shop).
 
 ---
 
 Back to [README](README.md) · Chinese version of the gift-card explainer: [ChatGPT 礼品卡是什么](https://kw.yaoyao.chat/guide/lipin-ka.html?utm_source=github&utm_medium=readme&utm_campaign=buy-chatgpt-plus-without-credit-card&utm_content=gift-cards)
 
-Maintained by 瑶瑶ai训练师 (Yaoyao AI Trainer); the author's own repository, not a third-party review. Licensed under MIT.
+Maintained by 瑶瑶ai训练师 (Yaoyao AI Trainer); the author's own repository, not a third-party review. From 2026-10-28 on, this repository is licensed under [CC BY-ND 4.0](LICENSE): you may share it unchanged with credit to 瑶瑶ai训练师 and a link to https://github.com/haiwaihuyonghui-rgb/buy-chatgpt-plus-without-credit-card; no adaptations.
